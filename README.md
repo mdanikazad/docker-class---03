@@ -20,7 +20,9 @@ Chain
 
 Dockerfile
 A dockerfile consists of two things
+-
 Instruction | Arguments
+-
 
 FROM ubuntu:18.04
 CMD ["sleep", "5"]
