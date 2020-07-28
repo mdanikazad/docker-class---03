@@ -5,9 +5,13 @@ Following topics were covered on third day
 Namespaces:
 
 UTC namespace
+-
 PID namespace
+-
 IPC namespace
+-
 Network namespace - This one is very critical and complex
+-
 
 
 IPtables consists on two things
